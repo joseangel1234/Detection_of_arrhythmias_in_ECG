@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Arrhythmia prediction UIS</string>
+    <string name="conectar">Device connection</string>
+    <string name="estadoConexion">Disconnect </string>
+    <string name="nivelBateria">Battery level </string>
+    <string name="porcentaje">Percent</string>
+    <string name="estadoElectrodos">Electrode Status</string>
+    <string name="derecho">Right</string>
+    <string name="izquierdo">Left</string>
+    <string name="estadoD">Unknown</string>
+    <string name="estadoI">Unknown</string>
+    <string name="obtenerECG">Get Signal </string>
+    <string name="Inferencia">Inference Result</string>
+    <string name="pSenalSana">Probabilidad senal sana</string>
+    <string name="senalSana">Unknown</string>
+    <string name="pSenalArritmia">Probabilidad senal con arritmia</string>
+    <string name="pArritmia">Unknown</string>
+    <string name="probailidadRuido">Probilidad de ruido en la senal</string>
+    <string name="pRuido">Unknown</string>
+    <string name="desconetar">Disconnect</string>
+    <string name="electrodos">Electrode Status</string>
+    <string name="estadosenal">Desconocido</string>
+    <string name="inferecia">Resultado de la inferencia</string>
+</resources>
